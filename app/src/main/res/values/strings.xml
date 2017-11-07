@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InTouch</string>
+    <string name="title_home">Message from ...</string>
+    <string name="title_dashboard">Contact list</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="default_notification_channel_id">Default_chanel</string>
+
+
+</resources>
